@@ -142,6 +142,11 @@ const UserSignUp = () => {
               Already have an account? Sign in
             </Link>
           </Grid>
+          <Grid item>
+            <a href={`https://10minutemail.com/`}>
+              Check out 10 Minute Mail for temp email to set up an account
+            </a>
+          </Grid>
         </Grid>
       </div>
     </Container>
